@@ -1,0 +1,1 @@
+export default function Page(){return <div style={{background:'#000',color:'#fff',minHeight:'100vh',padding:24}}><h1>PYQ Papers</h1><p style={{marginTop:16,background:'#18181b',padding:16,borderRadius:12}}>UPSC Polity 2022 PYQ + Solution</p></div>}
